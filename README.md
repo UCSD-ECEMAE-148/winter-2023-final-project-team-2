@@ -35,6 +35,10 @@ todo: insert images of robot
 ### Back
 
 
+### Schematic
+![Schematic](https://media.discordapp.net/attachments/1063289633087160320/1066623538372546632/image.png?width=980&height=492)
+
+
 ## 🍄 Final Project
 
 ### What We Promised
