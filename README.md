@@ -5,10 +5,11 @@
 
 ![Team_photo](https://user-images.githubusercontent.com/75888027/227403474-61048822-09dd-433b-932b-de86ef46961f.jpg)
 
-- Junhao (Michael) Chen (MAE)
+(Left to Right)
 - Elias Fang (CSE)
 - Ainesh Arumugam (ECE)
 - Matthew Merioles (ECE)
+- Junhao "Michael" Chen (MAE)
 
 
 ## 📝 Project Overview
