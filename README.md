@@ -18,7 +18,6 @@ Mario Kart in real-life? That's basically what we did. We designed a boost syste
 ![Mario Kart](https://images7.alphacoders.com/821/thumb-1920-821837.jpg)
 
 ## 🏎 Our Robot
-todo: insert images of robot
 
 ### Bird's Eye
 ![Top_view](https://user-images.githubusercontent.com/75888027/227403498-ec14b7c6-baf4-4aa7-a8bd-1ae51b82bc72.jpg)
