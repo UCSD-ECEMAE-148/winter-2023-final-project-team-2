@@ -85,7 +85,7 @@ https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
 https://docs.google.com/presentation/d/1oJPRLYIKvHUXEIK9hoYpPFoFAyHuG6sE7ZrU9NQPG8g/edit?usp=sharing
 
 ### Code
-https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-2
+https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-2/blob/main/MarioKart.py
 
 ### Possible Future Work
 - Change the colored paper into Mario Kart items (mushroom, bananas, etc.) for the car to identify
