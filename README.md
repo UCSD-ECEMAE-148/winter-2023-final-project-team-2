@@ -41,10 +41,12 @@ todo: insert images of robot
 
 #### Must haves
 [X] Distinguishing different colors through the camera
+
 [X] Adjust the throttle based on the color
 
 #### Nice to haves
 [X] Have the car detect a flat piece of paper on the track (like a booster pad)
+
 [ ] Combine with lane-following algorithm
 
 ### Gantt Chart
@@ -58,6 +60,7 @@ https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
 - Used color mask algorithm to detect proportion of frame that color takes up
 - Detected multiple colors at the same time
 - Determined HSVs for orange, pink, and blue
+
 [Demo](https://youtu.be/FjuSYkTAjqk)
 
 #### PyVESC
@@ -67,8 +70,11 @@ https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
   - Pink (Slow)= slow down for 3 sec
   - Orange (Stop) = stop for 3 sec
   - Neutral (Normal) = constant rpm
+
 [Blue Demo](https://drive.google.com/file/d/1RUvbSz4l9gmOoFYbJw85eCSTo_RK-lXq/view?resourcekey)
+
 [Pink Demo](https://youtu.be/r8XmqBMGC9A)
+
 [Orange Demo](https://drive.google.com/file/d/1VssNhcCGHQDJhq6Y4HJ77vdUJ9ZV3Z5x/view?resourcekey)
 
 ### Presentation
