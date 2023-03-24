@@ -3,7 +3,7 @@
 
 ## :wave: The Team: 2 Fast 2 Furious
 
-todo: insert image of team
+![Team_photo](https://user-images.githubusercontent.com/75888027/227403474-61048822-09dd-433b-932b-de86ef46961f.jpg)
 
 - Junhao (Michael) Chen (MAE)
 - Elias Fang (CSE)
@@ -21,19 +21,19 @@ Mario Kart in real-life? That's basically what we did. We designed a boost syste
 todo: insert images of robot
 
 ### Bird's Eye
-
+![Top_view](https://user-images.githubusercontent.com/75888027/227403498-ec14b7c6-baf4-4aa7-a8bd-1ae51b82bc72.jpg)
 
 ### Front
-
+![Front_view](https://user-images.githubusercontent.com/75888027/227403522-afdd695f-df96-4322-a394-93922a5811a3.jpg)
 
 ### Left
-
+![Left_view](https://user-images.githubusercontent.com/75888027/227403532-8eb23acd-b959-4a8c-8ed9-3731ada305a2.jpg)
 
 ### Right
-
+![Right_view](https://user-images.githubusercontent.com/75888027/227403561-73b25258-6376-4955-b1ee-34e0abd57fd8.jpg)
 
 ### Back
-
+![Back_view](https://user-images.githubusercontent.com/75888027/227403556-8ad6b249-ec0e-4297-9e9e-726ceafe3b9f.jpg)
 
 ### Schematic
 ![Schematic](https://media.discordapp.net/attachments/1063289633087160320/1066623538372546632/image.png?width=980&height=492)
