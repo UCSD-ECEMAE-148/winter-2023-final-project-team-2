@@ -20,6 +20,20 @@ Mario Kart in real-life? That's basically what we did. We designed a boost syste
 ## 🏎 Our Robot
 todo: insert images of robot
 
+### Bird's Eye
+
+
+### Front
+
+
+### Left
+
+
+### Right
+
+
+### Back
+
 
 ## 🍄 Final Project
 
@@ -34,6 +48,7 @@ todo: insert images of robot
 [ ] Combine with lane-following algorithm
 
 ### Gantt Chart
+![image](https://user-images.githubusercontent.com/56064410/227400674-06957a98-4ea6-4810-ac88-8386b4b63dd2.png)
 https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
 
 ### What We Accomplished
@@ -43,6 +58,7 @@ https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
 - Used color mask algorithm to detect proportion of frame that color takes up
 - Detected multiple colors at the same time
 - Determined HSVs for orange, pink, and blue
+[Demo](https://youtu.be/FjuSYkTAjqk)
 
 #### PyVESC
 - Connection through external webcam
@@ -51,6 +67,9 @@ https://sharing.clickup.com/9010060626/g/h/8cgn7aj-87/769d44f22562beb
   - Pink (Slow)= slow down for 3 sec
   - Orange (Stop) = stop for 3 sec
   - Neutral (Normal) = constant rpm
+[Blue Demo](https://drive.google.com/file/d/1RUvbSz4l9gmOoFYbJw85eCSTo_RK-lXq/view?resourcekey)
+[Pink Demo](https://youtu.be/r8XmqBMGC9A)
+[Orange Demo](https://drive.google.com/file/d/1VssNhcCGHQDJhq6Y4HJ77vdUJ9ZV3Z5x/view?resourcekey)
 
 ### Presentation
 https://docs.google.com/presentation/d/1oJPRLYIKvHUXEIK9hoYpPFoFAyHuG6sE7ZrU9NQPG8g/edit?usp=sharing
