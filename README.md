@@ -87,6 +87,7 @@ https://docs.google.com/presentation/d/1oJPRLYIKvHUXEIK9hoYpPFoFAyHuG6sE7ZrU9NQP
 ### Code
 https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-2/blob/main/MarioKart.py
 
+
 ### Possible Future Work
 - Change the colored paper into Mario Kart items (mushroom, bananas, etc.) for the car to identify
 - Allow the car to run autonomously on a track and still apply speed changes
@@ -101,8 +102,14 @@ https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-2/blob/main/Ma
 
 [ROS2 Lanes](https://drive.google.com/file/d/112mjOGJSfqOsfviWcJS7yKuZAAfUkezo/view?usp=drivesdk)
 
-[GNSS]()
+[GNSS](Unable to complete due to external factors...)
 
+## Additional Work Done
+- Our team was tasked with implementing a depth feature with our contour function, using depthAI to integrate with the OAK-D Camera!
+- Our updated code is now able to measure how far the contoured object is, measured in cm!
+
+[Depth Demo] https://www.youtube.com/watch?v=NYIz7--TpgY
+[Updated Code] https://github.com/UCSD-ECEMAE-148/winter-2023-final-project-team-2/blob/main/MarioKart_depth.py
 
 ## Acknowledgements
-Thanks for Professor Jack Silberman, TA Kishore Nukala, and Tutor Moises Lopez!
+Thanks for Professor Jack Silberman, TA Kishore Nukala, and TA Moises Lopez!
